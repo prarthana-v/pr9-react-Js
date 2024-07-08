@@ -1,0 +1,22 @@
+textarea {
+  resize: none !important;
+  outline: none;
+  border: 0;
+}
+
+.addnote {
+  position: relative;
+}
+.addbtn {
+  position: absolute;
+  bottom: -17px;
+  right: 30px;
+}
+.card {
+  position: relative;
+}
+.deletebtn {
+  position: absolute;
+  bottom: -17px;
+  right: 30px;
+}
